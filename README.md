@@ -1,8 +1,5 @@
 # -Wine_Quality_Prediction
-The focus is on predicting the quality of wine based on its chemical characteristics, offering a real-world application of machine learning in the context of viticulture. 
-# Wine Quality Prediction
 
-##  Description
 This project focuses on predicting the quality of wine based on its chemical characteristics.  
 The dataset includes diverse chemical attributes such as density and acidity, which serve as features for multiple classifier models.
 
