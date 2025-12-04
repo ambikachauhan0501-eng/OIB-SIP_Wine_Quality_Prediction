@@ -1,4 +1,4 @@
-# -Wine_Quality_Prediction
+#  Wine_Quality_Prediction
 
 This project focuses on predicting the quality of wine based on its chemical characteristics.  
 The dataset includes diverse chemical attributes such as density and acidity, which serve as features for multiple classifier models.
